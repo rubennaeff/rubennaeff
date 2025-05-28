@@ -5,7 +5,7 @@ See [LinkedIn](https://www.linkedin.com/in/rubennaeff) for public resume
 
 ## data science
 
-- [**`/data-science`**] has several examples for coding (e.g., sorting), classic ML (e.g., random forests, k-means, regression) and specialized ones for recommender systems (e.g., bandits, TTSN models)
+- **`/data-science`** has several examples for coding (e.g., sorting), classic ML (e.g., random forests, k-means, regression) and specialized ones for recommender systems (e.g., bandits, TTSN models)
 - **`/data-science/papers`** few papers and patents
 - **`/recommender-game`** computer game to explain exploration for recommender systems (2022)
 
